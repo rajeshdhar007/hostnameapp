@@ -1,10 +1,10 @@
-## hostnameapp
+# hostnameapp
 
-# To install:
+## To install:
 run ``npm install``
 
-# To run:
+## To run:
 run ``node index.js``
 
-# To access the application:
+## To access the application:
 Navigate to ``http://localhost:8000``
