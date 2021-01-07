@@ -1,4 +1,5 @@
 # hostnameapp
+This is a simple node application on express that outputs the hostname of the server on which the app is running. Ideal to demo and test kubernetes scaling pods. This would show the different names of the pods when redirected via a LoadBalancer or Service (from K8s)
 
 ## To install:
 run ``npm install``
