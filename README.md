@@ -7,4 +7,4 @@ run ``npm install``
 run ``node index.js``
 
 # To access the application:
-Navigate to ``http://localhost:8000
+Navigate to ``http://localhost:8000``
