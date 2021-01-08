@@ -10,7 +10,7 @@ run ``node index.js``
 ## To access the application:
 Navigate to ``http://localhost:8000``
 
-## To build the docker iamge:
+## To build the docker image:
 run ``docker build -t <project_name>/<image_name>:v1 .``
 
 example:
